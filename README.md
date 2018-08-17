@@ -3,4 +3,5 @@
 在python2的基础上修改为python3，在基础功能上添加了一些新的功能。
 
 ## 目录：
-- 一. [简易的netcat](https://github.com/saucer-man/python-Black-hat/blob/master/netcat.py)
+- 1. [简易的netcat](https://github.com/saucer-man/python-Black-hat/blob/master/netcat.py)
+- 2. [tcp代理](https://github.com/saucer-man/python-Black-hat/blob/master/TcpProxy.py)
