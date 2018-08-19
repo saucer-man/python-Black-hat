@@ -3,5 +3,15 @@
 在python2的基础上修改为python3，在基础功能上添加了一些新的功能。
 
 ## 目录：
-- 1. [简易的netcat](https://github.com/saucer-man/python-Black-hat/blob/master/netcat.py)
-- 2. [tcp代理](https://github.com/saucer-man/python-Black-hat/blob/master/TcpProxy.py)
+- 第二章 网络基础
+  - 取代netcat
+      
+      https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20two/netcat.py)
+  - 创建一个TCP代理
+      
+      https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20two/TcpProxy.py)
+  - 通过Paramiko使用SSH
+    
+    https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20two/bh_sshserver.py
+    
+    https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20two/bh_sshRcmd.py
