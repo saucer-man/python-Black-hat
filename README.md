@@ -15,3 +15,7 @@ https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20two/TcpProx
 https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20two/bh_sshserver.py
     
 https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20two/bh_sshRcmd.py
+
+* SSH隧道
+
+https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20two/rforward.py
