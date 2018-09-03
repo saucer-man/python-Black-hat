@@ -21,9 +21,16 @@ https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20two/bh_sshR
 https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20two/rforward.py
 
 ### 第三章 网络：原始套接字和流量嗅探
+* UDP主机发现
+
+https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20three/scanner.py
 * windows和linux上的包嗅探
 
 https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20three/sniffer.py
 * 解码IP层
 
 https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20three/sniffer_ip_header_decode.py
+
+* 解码ICMP
+
+https://github.com/saucer-man/python-Black-hat/blob/master/Chapter%20three/sniffer_with_icmp.py
