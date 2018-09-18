@@ -1,4 +1,4 @@
-# example：python rforward.py 192.168.100.123 -p 8080 -r 192.168.100.128:80 --user justin --password
+# example:python rforward.py 192.168.100.123 -p 8080 -r 192.168.100.128:80 --user justin --password
 import getpass
 import os
 import socket

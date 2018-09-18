@@ -1,4 +1,4 @@
-# encoding:utf-8
+# coding:utf-8
 """
 源代码在kali2 64上运行会出现错误：`Buffer size too small (20 instead of at least 32 bytes)`
 解决方法可参考：
